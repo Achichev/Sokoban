@@ -1,4 +1,4 @@
-package com.javarush.task.task34.task3410.model;
+package sokoban.model;
 
 import java.util.HashSet;
 import java.util.Set;
