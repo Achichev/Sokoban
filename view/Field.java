@@ -1,9 +1,9 @@
-package com.javarush.task.task34.task3410.view;
+package sokoban.view;
 
-import com.javarush.task.task34.task3410.controller.EventListener;
-import com.javarush.task.task34.task3410.model.Direction;
-import com.javarush.task.task34.task3410.model.GameObject;
-import com.javarush.task.task34.task3410.model.GameObjects;
+import sokoban.controller.EventListener;
+import sokoban.model.Direction;
+import sokoban.model.GameObject;
+import sokoban.model.GameObjects;
 
 import javax.swing.*;
 import java.awt.*;
