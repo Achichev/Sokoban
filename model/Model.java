@@ -1,6 +1,6 @@
-package com.javarush.task.task34.task3410.model;
+package sokoban.model;
 
-import com.javarush.task.task34.task3410.controller.EventListener;
+import sokoban.controller.EventListener;
 
 import java.net.URISyntaxException;
 import java.nio.file.Paths;
